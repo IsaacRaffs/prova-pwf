@@ -1,0 +1,49 @@
+h1{
+    background-color: rgba(13, 12, 12, 0.888);
+    color: white;
+    text-align: center;
+}
+
+h2{
+    background-image: linear-gradient(to right, pink, red);
+}
+#p1{
+    text-align: center;
+}
+#p2{
+    text-align: right;
+}
+#p3{
+    text-align: justify;
+}
+img{
+    width: 8rem;
+    height: 8rem;
+    display: block;
+}
+
+a{
+    color: blue;
+    display: block;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.k{
+    height: 32px;
+    width: 32px;
+    list-style-image: url(favicon.ico);
+}
+#image{
+    background-repeat: no-repeat;
+    padding: 0px;
+    background-image: url(Pernalonga3.png);
+}
+#ico1{
+    list-style-image: url(favicon.ico);
+}
+#ico2{
+    list-style-image: url(opvermelha.jpg);
+}
